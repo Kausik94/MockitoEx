@@ -58,4 +58,7 @@ public class Book {
     public String getImage() {
         return image;
     }
+public String get()
+{}
+
 }
